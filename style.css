@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: opx;
+}
+
+header{
+    background-color: rgb(72, 67, 108);
+   
+}
+.home ul li{
+    
+    text-align: end;
+    display: inline;
+    color: aliceblue;
+    text-justify: auto;
+    
+}
+.bg-image{
+    background-repeat: no-repeat;
+}
+.overlay{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size:xxx-large;
+    border-radius: 10px;
+    color: brown;
+    text-align: center;
+}
+.sec2{
+    background-color: rgb(72, 67, 108);
+}
+.sec3{
+    background-color: rgb(95, 87, 155) ;
+    justify-content: center;
+}
+.sec4{
+    background-color: rgb(72, 67, 108);
+    justify-content: space-between;
+    padding: 10px;
+}
+.sec5{
+    background-color:rgb(95, 87, 155);
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.overlay1{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size:xxx-large;
+    border-radius: 10px;
+    color: brown;
+    text-align: center;
+}
